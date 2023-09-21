@@ -1,6 +1,6 @@
 # Fitsumyihun Seifu
  
-Alexandria, VA 22304 | 571-451-5133 |  FitseFSeifu@gmail.com | [LinkedIn](https://www.linkedin.com/in/fitsumyihun/)
+Alexandria, VA 22304 | 571-451-5133 |  FitseFSeifu@gmail.com | [LinkedIn] (https://www.linkedin.com/in/fitsumyihun/)
 
 Data Analyst with 5 years of experience working with data, 4 years in healthcare including clinical and lab research and 1 year as a certified data analyst. Skilled in financial analysis, data visualization, analysis, and data storytelling by using tools like PYTHON, SQL, Tableau and Advanced Excel. Experienced in various analytic skills including predictive & prescriptive data analysis.
 ## Professional Experience 
